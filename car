@@ -1,0 +1,12 @@
+ <htmL>   <body>
+        <script>
+            class Car{
+                    constructor(make, speed){
+                        this.make = make;
+                        this.speed = speed;
+                        console.log(`Make: ${make}`)
+                        console.log(`Speed: ${speed}`)
+                    }}
+        </script>
+    </body>
+</html>
