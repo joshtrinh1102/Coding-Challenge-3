@@ -1,6 +1,4 @@
-<html>
-    <body>
-        <script>
+
             console.log(`U22275330`)
             class Car{
                     constructor(make, speed){
@@ -25,6 +23,4 @@
                     let MER= new Car("Mercedes",95)
                     MER.calculateacceleration()
                     MER.calculatebrake()
-        </script>
-    </body>
-</html>
+ 
